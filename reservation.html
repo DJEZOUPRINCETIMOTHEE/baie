@@ -446,7 +446,12 @@ a.btna:hover {
 	</div>
 
 	<div  class="wrapper vh-100" id="content">
-		<iframe width="100%" height="auto" src="https://www.baiedessirenes.com/"></iframe>
+		<script>
+			function resizeIframe(obj) {
+			    obj.style.height = obj.contentWindow.document.body.scrollHeight + 'px';
+			}
+		</script>
+		<iframe width="100%" onload="resizeIframe(this)" src="https://www.baiedessirenes.com/"></iframe>
 	</div><!-- Wrapper end -->
 
 	</div><!-- #page -->
