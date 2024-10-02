@@ -263,7 +263,7 @@ a.btna:hover {
 												<div class="menu-village-hotel-container">
 													<ul id="menu-village-hotel" class="menu">
 														<li id="menu-item-1279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1279">
-															<a href="https://san-canzian.hr/hr/o-nama/">Accueil</a>
+															<a href="index.html">Accueil</a>
 														</li>
 													</ul>
 												</div>
@@ -273,7 +273,7 @@ a.btna:hover {
 													<div class="menu-smjestaj-container">
 														<ul id="menu-smjestaj" class="menu">
 															<li id="menu-item-1263" class="menu-item menu-item-type-post_type menu-item-object-soba menu-item-1263">
-																<a href="https://san-canzian.hr/hr/?post_type=soba&#038;p=1181">Chambres</a>
+																<a href="chambre.html">Chambres</a>
 															</li>
 														</ul>
 													</div>
@@ -283,7 +283,7 @@ a.btna:hover {
 													<div class="menu-restoran-bar-container">
 														<ul id="menu-restoran-bar" class="menu">
 															<li id="menu-item-4047" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4047">
-																<a href="https://san-canzian.hr/hr/luciano-restoran/">Restaurant</a>
+																<a href="restaurant.html">Restaurant</a>
 															</li>
 														</ul>
 													</div>
@@ -293,10 +293,10 @@ a.btna:hover {
 														<div class="menu-dogadaji-container">
 															<ul id="menu-dogadaji" class="menu">
 																<li id="menu-item-4048" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4048">
-																	<a target="_blank" rel="noopener" href="https://san-canzian.hr/hr/eventi/#vjencanja">Séminaires & Événements</a>
+																	<a target="_blank" rel="noopener" href="seminaires.html">Séminaires & Événements</a>
 																</li>
 																<li id="menu-item-4049" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4049">
-																	<a target="_blank" rel="noopener" href="https://san-canzian.hr/hr/eventi/#konferencije">Loisirs & Excursions</a>
+																	<a target="_blank" rel="noopener" href="loisirs-excursions.html">Loisirs & Excursions</a>
 																</li>
 															</ul>
 														</div>
@@ -306,7 +306,7 @@ a.btna:hover {
 														<div class="menu-istrazite-istru-container">
 															<ul id="menu-istrazite-istru" class="menu">
 																<li id="menu-item-6216" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6216">
-																	<a href="https://san-canzian.hr/experiences">Galerie</a>
+																	<a href="galerie.html">Galerie</a>
 																</li>
 															</ul>
 														</div>
@@ -316,7 +316,7 @@ a.btna:hover {
 														<div class="menu-galerija-container">
 															<ul id="menu-galerija" class="menu">
 																<li id="menu-item-4055" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4055">
-																	<a href="https://san-canzian.hr/hr/galerija/">Contact</a>
+																	<a href="contact.html">Contact</a>
 															</ul>
 														</div>
 													</li>
@@ -325,13 +325,10 @@ a.btna:hover {
 														<div class="menu-galerija-container">
 															<ul id="menu-galerija" class="menu">
 																<li id="menu-item-4057" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4055">
-																	<a href="https://san-canzian.hr/hr/galerija/">Réinitialisation du mot de passe</a>
+																	<a href="password-reset.html">Réinitialisation du mot de passe</a>
 																</li>
 																<li id="menu-item-4058" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4056">
-																	<a target="_blank" rel="noopener" href="https://san-canzian.hr/3d/">Compte</a>
-																</li>
-																<li id="menu-item-4059" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4056">
-																	<a target="_blank" rel="noopener" href="https://san-canzian.hr/3d/">Déconnexion</a>
+																	<a target="_blank" rel="noopener" href="account.html">Compte</a>
 																</li>
 															</ul>
 														</div>
