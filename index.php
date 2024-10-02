@@ -378,7 +378,7 @@ a.btna:hover {
 			<div class="container">
 				<div class="row mx-0 align-items-center vh-100 text-center">
 					<div class="col" style="font-family: 'MaPolice';">								
-						<p style="font-family: 'MaPolice'; font-size:41px;">Un sanctuaire de bien-être dans</br></br>la nature préservé de Grand Béréby.</p>
+						<p style="font-family: 'MaPolice'; font-size:41px;">Un sanctuaire de bien-être dans</br></br>la nature préservée de Grand Béréby.</p>
 					</div>
 				</div>
 			</div>
