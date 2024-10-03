@@ -151,9 +151,14 @@ a.btna:hover {
 <link rel="apple-touch-icon" href="img/icon__.jpg" />
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
 <meta name="msapplication-TileImage" content="img/icon__.jpg" />
+<link rel="stylesheet" href="preloading.css">
 </head>
 
 <body class="home page-template-default page page-id-507" data-spy="scroll" data-target="#indicators" data-offset="0">
+
+	<div class='pre-loader'>
+	    <img class='loading-gif' alt='loading' src="img/logo.png"/>
+	</div>
 
 	<div class="hfeed site" id="main-wrapper">
 
@@ -691,6 +696,11 @@ a.btna:hover {
 	})();
 	</script>
 	<!-- End Sojern Tag -->
+	<script type='text/javascript'>
+    window.addEventListener('load', function () {
+        document.querySelector('.pre-loader').className += ' hidden';
+    });
+</script>
 </body>
 
 </html>
