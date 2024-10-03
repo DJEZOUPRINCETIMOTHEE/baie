@@ -541,7 +541,7 @@ a.btna:hover {
 	</div><!-- Wrapper end -->
 
 	</div><!-- #page -->
-	<div id="share">
+	<div id="share" style = "visibility: visible !important; opacity: 1 !important; ">
 		<a href="" target="_blank">R</br>é</br>s</br>e</br>r</br>v</br>e</br>z</a>
 		<a href="" target="_blank"><span class="icon icon-phone"></span></a>
 		<a href="" target="_blank"><span class="icon icon-whatsapp"></span></a>
